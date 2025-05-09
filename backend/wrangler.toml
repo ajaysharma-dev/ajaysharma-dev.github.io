@@ -1,0 +1,4 @@
+name = "booking-app"
+main = "src/index.js"
+compatibility_date = "2025-05-09"
+assets={directory="build"}
